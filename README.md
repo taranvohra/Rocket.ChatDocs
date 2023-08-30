@@ -3,7 +3,7 @@
 [Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform.\
 
 
-[Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications platform for organizations with high data protection standards. It enables real-time conversations between colleagues, other companies, or your customers across web, desktop, or mobile devices.&#x20;
+[Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizations with high data protection standards. It enables real-time conversations between colleagues, other companies, or your customers across web, desktop, or mobile devices.&#x20;
 
 [Rocket.Chat](https://rocket.chat) **integrates** with multiple conversation channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, constructing a single view of the customer and reducing the time required to switch between the tools. Mobile app for Rocket.Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your server, or use SaaS Rocket.Chat 🚀. We offer support and professional services for our [enterprise plan](setup-and-configure/enterprise-edition-trial/).
 
