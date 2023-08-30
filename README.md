@@ -1,11 +1,10 @@
 # Rocket.Chat
 
-[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform.\
+[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform~~_._~~\\
 
+[Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizations with high data protection standards. It enables real-time conversations between colleagues, other companies, or your customers across web, desktop, or mobile devices.
 
-[Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizations with high data protection standards. It enables real-time conversations between colleagues, other companies, or your customers across web, desktop, or mobile devices.&#x20;
-
-[Rocket.Chat](https://rocket.chat) **integrates** with multiple conversation channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, constructing a single view of the customer and reducing the time required to switch between the tools. Mobile app for Rocket~Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your server, or use **SaaS** Rocket.Chat 🚀. We offer support and professional services for our [enterprise plan](setup-and-configure/enterprise-edition-trial/).
+[Rocket.Chat](https://rocket.chat) **integrates** with multiple conversation channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, constructing a single view of the customer and reducing the time required to switch between the tools. Mobile app for Rocket\~Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your server, or use **SaaS** Rocket.Chat 🚀. We offer support and professional services for our [enterprise plan](setup-and-configure/enterprise-edition-trial/).
 
 {% hint style="success" %}
 **Rocket.Chat 6.0** is our most secure and scalable version yet. It includes 10 security patches, 9 brand-new features, and 25+ overall platform enhancements. Visit our [website](https://www.rocket.chat/six) to learn more about what’s new in this latest version. [Update now](https://docs.rocket.chat/deploy/updating-rocket.chat)!
@@ -13,12 +12,12 @@
 
 ## Product Offerings
 
-Rocket.Chat has four key product offerings:&#x20;
+Rocket.Chat has four key product offerings:
 
 * [**Team collaboration**](use-rocket.chat/workspace-administration/) - A single point for secure internal and cross-company collaboration.
 * [**Omnichannel customer service**](use-rocket.chat/omnichannel/) - Engage in seamless interactions with customers regardless of how they connect with you.
 * [**Chat engine**](https://developer.rocket.chat/chat-engine/overview-of-chat-engine) - Create customized messaging experiences within your mobile or web app.
-* [**Marketplace** ](extend-rocket.chat-capabilities/rocket.chat-marketplace/)- Choose a wide range of apps and native integrations that help your business communicate more effectively.
+* [**Marketplace** ](extend-rocket.chat-capabilities/rocket.chat-marketplace)- Choose a wide range of apps and native integrations that help your business communicate more effectively.
 
 ## Security Offerings
 
@@ -76,12 +75,12 @@ Rocket.Chat offers governance and risk-management capabilities that meet the nee
 
 ### Features
 
-{% content-ref url="use-rocket.chat/rocket.chat-voice-channel/" %}
-[rocket.chat-voice-channel](use-rocket.chat/rocket.chat-voice-channel/)
+{% content-ref url="use-rocket.chat/rocket.chat-voice-channel" %}
+[rocket.chat-voice-channel](use-rocket.chat/rocket.chat-voice-channel)
 {% endcontent-ref %}
 
-{% content-ref url="use-rocket.chat/rocket.chat-conference-call/" %}
-[rocket.chat-conference-call](use-rocket.chat/rocket.chat-conference-call/)
+{% content-ref url="use-rocket.chat/rocket.chat-conference-call" %}
+[rocket.chat-conference-call](use-rocket.chat/rocket.chat-conference-call)
 {% endcontent-ref %}
 
 {% content-ref url="use-rocket.chat/workspace-administration/settings/analytics.md" %}
