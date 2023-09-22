@@ -1,6 +1,6 @@
 # Rocket.Chat
 
-[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform\~\~_._\~\~\ 1 2 3
+[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform\~\~_._\~\~\ 1 2 3 4
 
 [Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizationss with high data protection standards. It enables real-time conversation?s between colleagues, other companies, or your customers across web, desktop, or mobile devices.
 
