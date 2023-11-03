@@ -14,7 +14,7 @@ Added changes (3)
 
 ## Product Offerings
 
-Rocket.Chat has four key product offerings:
+Rocket.Chat has four key product offerings:-
 
 * [**Team collaboration**](use-rocket.chat/workspace-administration/) - A single point for secure internal and cross-company collaboration.
 * [**Omnichannel customer service**](use-rocket.chat/omnichannel/) - Engage in seamless interactions with customers regardless of how they connect with you.
