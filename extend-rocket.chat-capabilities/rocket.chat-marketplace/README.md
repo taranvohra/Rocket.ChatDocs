@@ -47,10 +47,10 @@ On the **Installed** tab of the **Apps** screen,
 
 Public Apps are all the apps available on the Rocket.Chat [marketplace](https://www.rocket.chat/marketplace). If you are a third-party publisher/developer, you can also [submit an app to the marketplace](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace).
 
-To submit an app to the marketplace, the publisher must have a Rocket.Chat [Cloud Account](https://cloud.rocket.chat/login) and register their publisher account. You can find more about it in the [developer documentation. ](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace)
+To submit an app to the marketplace, the publisher must have a Rocket.Chat [Cloud Account](https://cloud.rocket.chat/login) and register their publisher account. You can find more about it in the [developer documentation.](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace)
 
 {% hint style="info" %}
-You can learn how to install and enable each of them in the [App Guide](rocket.chat-public-apps-guides/).
+You can learn how to install and enable each of them in the [App Guide](rocket.chat-public-apps-guides).
 {% endhint %}
 
 ### Private Apps
@@ -67,7 +67,7 @@ To install a Private app, get your app [packaged](https://developer.rocket.chat/
 For Rocket.Chat workspace versions less than 6.0, Go to **Administration** > **Settings** > **General** > **Apps** and **Enable development mode**, then proceed to **Administration** > **Apps** to **Upload App.**
 {% endhint %}
 
-* Navigate to **Administration  > Marketplace > Private apps >**&#x20;
+* Navigate to **Administration > Marketplace > Private apps >**
 * Click **Upload Private App.**
 * Choose the installation method ( URL or a compiled `.zip)` and **Install.**
 * **Agree** to the permissions needed to complete the installation.
@@ -78,12 +78,12 @@ The app is installed on the workspace and ready to use.
 
 ### Community Edition
 
-Community Edition (CE), workspaces can install numerous Public apps (apps from the marketplace) but enable only five. And they can allow three Private apps. Once it reaches the limit, you can upgrade to the[ Enterprise Edition](./#enterprise-edition) (EE) for access to enable all apps in the workspace.  Refer to the table below for a better understanding.
+Community Edition (CE), workspaces can install numerous Public apps (apps from the marketplace) but enable only five. And they can allow three Private apps. Once it reaches the limit, you can upgrade to the[ Enterprise Edition](./#enterprise-edition) (EE) for access to enable all apps in the workspace. Refer to the table below for a better understanding.
 
 <table><thead><tr><th width="266.3333333333333">Community Edition 6.0</th><th width="199">Public apps</th><th>Private apps</th></tr></thead><tbody><tr><td>Install</td><td>Unlimited</td><td>Unlimited</td></tr><tr><td>Enable/Use</td><td>5</td><td>3</td></tr></tbody></table>
 
 {% hint style="info" %}
-For workspace version`5.4` or lower, you can use all the enabled public and private apps you already have. However, you can not purchase or enable more apps once the limit is reached.&#x20;
+For workspace version`5.4` or lower, you can use all the enabled public and private apps you already have. However, you can not purchase or enable more apps once the limit is reached.
 {% endhint %}
 
 ### Enterprise Edition
@@ -111,7 +111,7 @@ Some apps are part of the **Enterprise Edition** offerings. You don't have to pu
 | [JIRA Server Integration](rocket.chat-public-apps-guides/atlassian/jira-server-v2.0.md)                         | Enterprise | Yes        |
 | [Pexip](../../use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/pexip-app.md)             | Enterprise | Yes        |
 | [Telegram](rocket.chat-public-apps-guides/omnichannel-apps/telegram-app/)                                       | Enterprise | No         |
-| [Trello](rocket.chat-public-apps-guides/trello.md)                                                              | Enterprise | No         |
+| [Trello](rocket.chat-public-apps-guides/trello/)                                                                | Enterprise | No         |
 | [Twitter](rocket.chat-public-apps-guides/omnichannel-apps/twitter-app/)                                         | Enterprise | No         |
 | [WhatsApp](rocket.chat-public-apps-guides/omnichannel-apps/whatsapp/)                                           | Paid       | No         |
 | [Whatsapp Cloud](rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-cloud-app/)                           | Enterprise | No         |
@@ -121,4 +121,4 @@ Some apps are part of the **Enterprise Edition** offerings. You don't have to pu
 If you are subscribed to Rocket.Chat's **Enterprise Edition**, you can install and enable any number of paid and free apps available in the marketplace on your workspace.
 {% endhint %}
 
-If you are looking for the manual/user guide of a particular app, check [rocket.chat-public-apps-guides](rocket.chat-public-apps-guides/ "mention") or search for it within the documentation.
+If you are looking for the manual/user guide of a particular app, check [rocket.chat-public-apps-guides](rocket.chat-public-apps-guides "mention") or search for it within the documentation.

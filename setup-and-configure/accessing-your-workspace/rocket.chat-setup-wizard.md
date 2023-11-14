@@ -4,7 +4,7 @@ description: Administrator initial workspace configuration for Rocket.Chat serve
 
 # Rocket.Chat Setup Wizard
 
-Rocket.Chat provides multiple [Rocket.Chat Client Apps](../../deploy/installing-client-apps/) that can be used for the user interface.&#x20;
+Rocket.Chat provides multiple [Rocket.Chat Client Apps](../../deploy/installing-client-apps/) that can be used for the user interface.
 
 {% hint style="info" %}
 The URL of your Rocket.Chat server may be a local host server URL or domain server URL, depending on how you deploy your workspace.
@@ -28,7 +28,7 @@ To access Rocket.Chat in a browser,
 
 To launch your workspace, you are required to complete the setup wizard. Fill in the information in the various steps to continue.
 
-*   **Admin Information**: Fill in this information as it is needed to create the first user who automatically becomes an administrator of your Rocket.Chat workspace.&#x20;
+*   **Admin Information**: Fill in this information as it is needed to create the first user who automatically becomes an administrator of your Rocket.Chat workspace.
 
     * **Full name**: Set the first and last name.
     * **Username**: Specify the admin username.
@@ -47,12 +47,12 @@ To launch your workspace, you are required to complete the setup wizard. Fill in
     Click **Continue** to proceed to the third step.
 * **Register Your Server**: You are asked to [register your workspace](rocket.chat-setup-wizard.md#register-workspace) to the Rocket.Chat Cloud or link the workspace to an existing Rocket.Chat Cloud account.
   * Check the box if you want to receive security updates.
-  * Agree to the [**Terms**](../../rocket.chat-legal/terms-of-service/) and [**Privacy Policy**](broken-reference) and **Register**.
+  * Agree to the [**Terms**](../../rocket.chat-legal/terms-of-service/) and [**Privacy Policy**](broken-reference/) and **Register**.
 
 {% hint style="info" %}
 With a registered workspace, you have access to benefits like:
 
-* Access to [**Marketplace apps**](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/).
+* Access to [**Marketplace apps**](../../extend-rocket.chat-capabilities/rocket.chat-marketplace).
 * [**Omnichannel**](../../use-rocket.chat/omnichannel/)
 * Mobile [**push notifications**](../../use-rocket.chat/rocket.chat-mobile/push-notifications/)**.**
 {% endhint %}
@@ -71,11 +71,11 @@ When registering your workspace, Rocket.Chat collects the following information 
 * **Contact email** for the workspace.
 * The number of **seats** for the workspace.
 * The **account name.**
-* The **organization type**.&#x20;
+* The **organization type**.
 * What **industry** the organization belongs to.
-* The **size of the organization**.&#x20;
+* The **size of the organization**.
 * The **country** of the organization.
-* **Language** set for the workspace.&#x20;
+* **Language** set for the workspace.
 * **Website** of the organization.
 * **Site name** of the workspace.
 * The **workspace type**.
@@ -86,7 +86,7 @@ When registering your workspace, Rocket.Chat collects the following information 
 </details>
 
 {% hint style="success" %}
-Your workspace is ready for use, and you can apply for an [Enterprise Edition trial](../enterprise-edition-trial/) to test out all the features that come with an enterprise workspace.
+Your workspace is ready for use, and you can apply for an [Enterprise Edition trial](../enterprise-edition-trial.md) to test out all the features that come with an enterprise workspace.
 {% endhint %}
 
 With your Rocket.Chat workspace setup completed, you can [invite users](inviting-users.md) to collaborate with. Learn more about how to use Rocket.Chat following the [user-guides](../../use-rocket.chat/user-guides/ "mention").

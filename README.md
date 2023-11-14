@@ -1,12 +1,12 @@
 # Rocket.Chat
 
-[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications 📱 platform\~\~_._\~\~\\
+[Rocket.Chat](https://rocket.chat)’s **mission** is to empower organizations to own their conversations by developing the world’_s_ most flexible and secure open-source communications 📱 platform\~\~_._\~\~\\
 
 Added changes (3)
 
 [Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizationss with high data protection standards. It enables real-time conversation?s between colleagues, other companies, or your customers across web, desktop, or mobile devices.
 
-[Rocket.Chat](https://rocket.chat) **integrates** with ?multiple conversation 📝 channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, constructing a single view of the customer and reducing the time required to switch between the tools. Mobile app for Rocket\~Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your server, or use **SaaS** Rocket.Chat 🚀. We offer support and professional services for our [enterprise plan](setup-and-configure/enterprise-edition-trial/).
+[Rocket.Chat](https://rocket.chat) **integrates** with ?multiple conversation 📝 channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, constructing a single view of the customer and reducing the time required to switch between the tools. Mobile app for Rocket\~Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your server, or use **SaaS** Rocket.Chat 🚀. We offer support and professional services for our [enterprise plan](setup-and-configure/enterprise-edition-trial.md).
 
 {% hint style="success" %}
 **Rocket.Chat 6.0** is our most secure and scalable version yet. It includes 10 security patches, 9 brand-new features, and 25+ overall platform enhancements. Visit our [website](https://www.rocket.chat/six) to learn more about what’s new in this latest version. [Update now](https://docs.rocket.chat/deploy/updating-rocket.chat)!
@@ -14,7 +14,7 @@ Added changes (3)
 
 ## Product Offerings
 
-Rocket.Chat has four key product offerings:-
+Rocket.Chat has four key product offerings:
 
 * [**Team collaboration**](use-rocket.chat/workspace-administration/) - A single point for secure internal and cross-company collaboration.
 * [**Omnichannel customer service**](use-rocket.chat/omnichannel/) - Engage in seamless interactions with customers regardless of how they connect with you.

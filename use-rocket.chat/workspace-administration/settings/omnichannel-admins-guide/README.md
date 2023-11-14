@@ -28,7 +28,7 @@ Remember to hit **Save Changes** in order to apply any changes made here.
 ## Canned Responses <a href="#a4x6dcwkpxm" id="a4x6dcwkpxm"></a>
 
 {% hint style="info" %}
-Canned Responses is an [Enterprise](../../../../setup-and-configure/enterprise-edition-trial/) feature. ![](<../../../../.gitbook/assets/2021-06-10\_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (41).jpg>)
+Canned Responses is an [Enterprise](../../../../setup-and-configure/enterprise-edition-trial.md) feature. ![](<../../../../.gitbook/assets/2021-06-10\_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (41).jpg>)
 {% endhint %}
 
 Under this section, you can enable or disable the use of Canned Responses.\
@@ -89,7 +89,7 @@ See how to [install the Live Chat widget](../../../omnichannel/livechat-widget-i
 Set your business hours to automatically manage conversations when your Live Chat agents are online.
 
 {% hint style="info" %}
-![](<../../../../.gitbook/assets/2021-06-10\_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (41).jpg>) Configuring multiple business hour mode is an [Enterprise](../../../../setup-and-configure/enterprise-edition-trial/) feature.
+![](<../../../../.gitbook/assets/2021-06-10\_22-31-38 (3) (3) (3) (3) (3) (3) (3) (3) (3) (2) (3) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1) (1) (4) (1) (1) (1) (1) (1) (1) (1) (41).jpg>) Configuring multiple business hour mode is an [Enterprise](../../../../setup-and-configure/enterprise-edition-trial.md) feature.
 {% endhint %}
 
 * **Business hours enabled**: Toggle on to enable business hours.
