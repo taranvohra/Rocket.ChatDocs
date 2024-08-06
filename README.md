@@ -1,3 +1,7 @@
+---
+icon: rocketchat
+---
+
 # Rocket.Chat
 
 [Rocket.Chat](https://rocket.chat)’s **mission** is to **empower** organizations to own their conversations by developing the world’_s_ most flexible and secure open-source communications 📱 platform\~\~_._\~\~\\

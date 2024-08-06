@@ -1,3 +1,7 @@
+---
+icon: rocket-launch
+---
+
 # Prepare for your Deployment
 
 {% hint style="success" %}
