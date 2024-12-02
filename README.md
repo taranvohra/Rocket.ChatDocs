@@ -6,7 +6,7 @@ icon: rocketchat
 
 [Rocket.Chat](https://rocket.chat)’s **mission** is to **empower** organizations to own their conversations by developing the world’_s_ most flexible and secure open-source communications 📱 platform\~\~_._\~\~\\
 
-Added changes (9)
+Added changes (10)
 
 [Rocket.Chat](https://rocket.chat) is a **customizable** open-source communications **platform** for organizationss with high data protection standards. It enables real-time conversation?s between colleagues, other companies, or your customers across web, desktop, or mobile devices.
 
